@@ -74,9 +74,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/perparim15/perparim15/output/snake.svg" alt="Snake animation" />
-
-###
