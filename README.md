@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Perparim Asllani from Kosova<br><br>- 🔭 I'am not working but learning.<br>- 📚 I'm currently learning React JS.<br>- ⚡ In my free time I become part of "MATRIX".</p>
+<p align="left">I'm Perparim Asllani from Kosova<br><br>- 🔭 I'am not working but learning.<br>- 📚 I'm currently learning React JS.<br>
 
 ###
 
